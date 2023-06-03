@@ -1,0 +1,20 @@
+* {
+  box-sizing: inherit;
+}
+html {
+  padding: 0;
+  margin: 0;
+  font-size: 62.5%;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  scroll-behavior: smooth;
+}
+body {
+}
+.main {
+  overflow: hidden;
+}
+:root {
+  --linear-gradient: linear-gradient(180deg, #99938e, #eb6426);
+  --header-color: #f5f1f0;
+}
